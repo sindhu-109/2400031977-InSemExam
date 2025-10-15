@@ -1,0 +1,50 @@
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 391 bytes | 391.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/sindhu-109/2400031977-InSemExam.git
+   0f29fbe..0b7da10  main -> main
+
+commit 0b7da10fade5b8422178d25795261d8d2cb56e60 (HEAD -> main, origin/main)
+Merge: 71c6e6e 415bd1c
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:41:18 2025 +0530
+
+    Resolved merge conflict in App.js
+
+commit 415bd1cd847f67abd1f7e435ce58c821cff89a9d (origin/feature2, feature2)
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:37:19 2025 +0530
+:
+commit 0b7da10fade5b8422178d25795261d8d2cb56e60 (HEAD -> main, origin/main)
+Merge: 71c6e6e 415bd1c
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:41:18 2025 +0530
+
+    Resolved merge conflict in App.js
+
+commit 415bd1cd847f67abd1f7e435ce58c821cff89a9d (origin/feature2, feature2)
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:37:19 2025 +0530
+
+    Bob modified greet function
+
+commit 71c6e6e7eea46529fda49307a67f60761f34ef2d (origin/feature1, feature1)
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:36:39 2025 +0530
+
+    Alice modified greet function
+
+commit 3ec59fa15127ac39105231510548aebc17e0dfaf
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:33:21 2025 +0530
+
+    Initial commit with greet function
+
+commit 0f29fbecf5165b45b1e385da9bde3a95bdada2d2
+Author: sindhuja <tripuravaramsindhuja@gmail.com>
+Date:   Wed Oct 15 16:31:31 2025 +0530
+
+    Initial commit
+(END)
