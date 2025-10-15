@@ -1,1 +1,3 @@
-"function greet() { console.log('Hello from Alice'); }" 
+function greet() {
+    console.log('Hello from both Alice and Bob');
+}
